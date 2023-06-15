@@ -1,0 +1,2 @@
+<p style="color: white;">Let Me Get A Beautiful Website.</p>
+        <a class="button-two" href="#">Hire Me</a>
